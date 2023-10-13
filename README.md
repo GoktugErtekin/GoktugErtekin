@@ -6,9 +6,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GoktugErtekin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GoktugErtekin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+# ✍️ Here is a random dev quote that will make you think
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+# Here is a meme that will make your day better
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
